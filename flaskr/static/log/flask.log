@@ -1,0 +1,19 @@
+2018-11-14 02:13:47,743 - INFO - app.py - calculate_number_of_photo - 24 - python is running!
+2018-11-14 02:16:46,044 - INFO - app.py - calculate_number_of_photo - 24 - python is running!
+2018-11-14 02:16:46,045 - ERROR - app.py - calculate_number_of_photo - 30 - name 'file_path' is not defined
+2018-11-14 02:17:46,706 - INFO - app.py - calculate_number_of_photo - 24 - python is running!
+2018-11-14 02:17:46,707 - ERROR - app.py - calculate_number_of_photo - 30 - error: name 'file_path' is not defined
+2018-11-14 02:54:33,702 - INFO - app.py - calculate_number_of_photo - 27 - python is running!
+2018-11-14 03:02:52,231 - INFO - app.py - calculate_number_of_photo - 28 - python is running!
+2018-11-14 03:03:29,681 - INFO - app.py - calculate_number_of_photo - 28 - python is running!
+2018-11-14 03:03:48,515 - INFO - app.py - calculate_number_of_photo - 28 - python is running!
+2018-11-14 03:04:58,123 - INFO - app.py - calculate_number_of_photo - 28 - python is running!
+2018-11-14 03:05:31,013 - INFO - app.py - calculate_number_of_photo - 28 - python is running!
+2018-11-14 03:05:45,256 - INFO - app.py - calculate_number_of_photo - 28 - python is running!
+2018-11-14 03:12:41,001 - INFO - app.py - calculate_number_of_photo - 28 - python is running!
+2018-11-14 03:16:46,842 - INFO - app.py - calculate_number_of_photo - 27 - python is running!
+2018-11-14 03:35:48,604 - INFO - app.py - calculate_number_of_photo - 29 - python is running!
+2018-11-14 03:37:29,397 - INFO - app.py - calculate_number_of_photo - 31 - python is running!
+2018-11-14 16:52:00,915 - INFO - app.py - root - 24 - winter is coming
+2018-11-14 16:52:57,578 - INFO - app.py - calculate_number_of_photo - 33 - python is running!
+2018-11-14 17:33:36,716 - INFO - app.py - calculate_number_of_photo - 33 - python is running!
