@@ -29,7 +29,7 @@ camera-trap-calculation
 ## 配置文件
 位置在 `/etc/supervisor.conf`
 
-```
+```ini
 [program:flask]
 command=gunicorn -w4 -b10.0.10.31:80 app:app     # 執行 gunicorn 命令
 startsecs=0-                                     # 啟動程式多少秒之後判斷狀態
